@@ -9,7 +9,7 @@ Fullstack developer with primary focus on Node + React + Next.js
 
 - 🔭 I’m currently working on https://github.com/mcihadkurel/sportslink repo
 - 🌱 I’m currently learning Next.js and Typescript
-- I love dancing 🕺, travelling 🚶, and cooking 🧁
+- 🌆   I love dancing 🕺 travelling 🚶 and cooking 🧁
 
 🧰 ToolBox
 
