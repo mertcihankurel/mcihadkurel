@@ -7,7 +7,7 @@ I enjoy building niche websites as a freelancer with the latest modern technolog
 
 I'm a Fullstack developer with primary focus on Node + React + Next.js
 
-- 🔭 I’m currently working on https://github.com/mcihadkurel/sportslink repo
+- 🔭 I’m currently working on https://github.com/mcihadkurel/sportslink project
 - 🌱 I’m currently learning Next.js and Typescript
 - 🌆 I love dancing 🕺 travelling 🚶 and cooking 🧁
 
@@ -30,5 +30,3 @@ I'm a Fullstack developer with primary focus on Node + React + Next.js
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt= "Figma logo" width="50px" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" alt= "Wordpress logo" width="50px" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" alt= "Heroku logo" width="50px" height="50"/>
-
-
