@@ -5,11 +5,11 @@
 
 I enjoy building niche websites as a freelancer with the latest modern technologies.
 
-Fullstack developer with primary focus on Node + React + Next.js
+I'm a Fullstack developer with primary focus on Node + React + Next.js
 
 - 🔭 I’m currently working on https://github.com/mcihadkurel/sportslink repo
 - 🌱 I’m currently learning Next.js and Typescript
-- 🌆   I love dancing 🕺 travelling 🚶 and cooking 🧁
+- 🌆 I love dancing 🕺 travelling 🚶 and cooking 🧁
 
 🧰 ToolBox
 
