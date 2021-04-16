@@ -1,5 +1,5 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Muhammed Kurel!
-
+![Twitter URL](https://img.shields.io/twitter/url?label=Follow&style=social&url=https%3A%2F%2Ftwitter.com%2Fmece_ka)
 <!--
 **mcihadkurel/mcihadkurel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
