@@ -3,7 +3,7 @@
 ![Twitter URL](https://img.shields.io/twitter/url?label=Follow&style=social&url=https%3A%2F%2Ftwitter.com%2Fmece_ka)
 
 
-I enjoy building niche websites as a freelancer with the latest modern technologies.
+I enjoy building websites as a freelancer with the latest modern technologies.
 
 I'm a Fullstack developer with primary focus on Node + React + Next.js
 
