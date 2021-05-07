@@ -7,8 +7,8 @@ I enjoy building websites as a freelancer with the latest modern technologies.
 
 I'm a Fullstack developer with primary focus on Node + React + Next.js
 
-- 🔭 I’m currently working on https://github.com/mcihadkurel/sportslink project
-- 🌱 I’m currently learning Next.js and Typescript
+- 🔭 I’m currently working on https://v1.impfi.at/ project
+- 🌱 I’m currently learning Next.js, Typescript and GraphQL
 - 🌆 I love dancing 🕺 travelling 🚶 and cooking 🧁
 
 🧰 ToolBox
