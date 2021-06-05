@@ -5,7 +5,7 @@
 
 I enjoy building websites as a freelancer with the latest modern technologies.
 
-I'm a Fullstack developer with primary focus on Node + React + Next.js
+I'm a Fullstack developer with primary focus on Node + React + Next.js + TypeScript
 
 - 🔭 I’m currently working on https://v1.impfi.at/ project
 - 🌱 I’m currently learning Next.js, Typescript and GraphQL
